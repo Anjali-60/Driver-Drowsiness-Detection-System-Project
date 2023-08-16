@@ -21,7 +21,7 @@ Welcome to the Driver Drowsiness Detection System project repository! This proje
 5) Efficient Performance: Our system is optimized for real-time performance, making it suitable for deployment on various hardware platforms, including embedded systems.
    
 ### Getting Started:
-1) Clone the repository to your local machine using the command: git clone https://github.com/nikilsaini74/Driver-Drowsiness-Detection-Sytem-Project.git
+1) Clone the repository to your local machine using the command: git clone https://github.com/Anjali-60/Driver-Drowsiness-Detection-System-Project.git
 2) Install the required dependencies and libraries as mentioned in the requirements.txt file.
 3) Explore the Jupyter notebooks in order to understand the system's functionality and model training process.
 4) Run the main.ipynb notebook to experience the drowsiness detection system in action.
